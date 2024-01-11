@@ -1,0 +1,26 @@
+what are HTMl Entities? List out 5 commonly used html entities?
+
+HTML entities are symbols that have a number code. Here are some examples of HTML entities: 
+': Apostrophe, represented by the number code &#39;
+
+&: Ampersand, represented by the number code &#38;
+
+<: Less-than, represented by the number code &#60;
+
+>: Greater-than, represented by the number code &#62;
+
+;: Semicolon, represented by the number code &#59;
+
+=: Equals sign, represented by the number code &#61;
+
+¢: Cent, represented by the number code 162
+
+£: Pound, represented by the number code 163
+
+¥: Yen, represented by the number code 165
+
+€: Euro, represented by the number code 8364
+
+≠: Not equal to sign, represented by the entity &ne;
+
+°: Degree symbol, represented by the entity &deg

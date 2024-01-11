@@ -1,0 +1,8 @@
+In web development, accessibility is the practice of making websites usable by as many people as possible. It involves designing and developing websites so that people with disabilities can use them. 
+
+Accessibility benefits people with impairments, as well as people who use different devices, browsers, or network conditions. It also improves a web app's SEO, performance, and user satisfaction. 
+
+Accessibility settings can help users who have visual, auditory, cognitive, motor, or other impairments. They can also benefit users with temporary or situational difficulties, such as using a device in bright sunlight or with one hand. 
+
+Accessibility is built upon four foundational principles: Perceivable, Operable, Understandable, Robust. 
+These principles ensure that web content is accessible and usable for all, including those with disabilities. 

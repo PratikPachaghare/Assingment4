@@ -1,0 +1,13 @@
+Image alt text
+Alt text provides context for images on a website, which is important for
+ users who rely on screen readers. It also makes the website easier for search
+  engines to crawl and index.
+
+Keyboard accessibility
+Many users are unable to use a mouse and may navigate a page using only
+ a keyboard. To test a website with a keyboard, try tabbing through the
+  website using only the keyboard.
+
+Descriptive headings
+Headings should accurately summarize the content that follows. This helps
+ users understand the structure and arrangement of the website.
